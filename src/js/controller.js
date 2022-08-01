@@ -95,10 +95,6 @@ const controlAddRecipe = async function (newRecipe) {
     recipeView.render(model.state.recipe);
     //success message
     addRecipeView.renderMessage();
-    //auto close form window
-    setTimeout(() => {
-      addRecipeView.toggleWindow();
-    }, MODAL_CLOSE_SEC);
     // change id in the URL
     window.history.pushState(null, "", `#${model.state.recipe.id}`);
   } catch (err) {
