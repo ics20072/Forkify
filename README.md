@@ -19,7 +19,7 @@ git clone https://github.com/ics20072/Forkify.git or download the zip from githu
 Import Forkify folder to vscode
 Confirm you are on "Forkify" directory
 npm install
-npm run start || npm run dev
+npm run start
 Follow the server link that provided after build
 ```
 
