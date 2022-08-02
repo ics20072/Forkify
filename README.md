@@ -1,5 +1,5 @@
 # Forkify
-<h3>This is front-end website where someone can search and add recipes.</h3>
+<h3>This is front-end website where someone can search, save and add recipes.</h3>
 Done as part of the Udemy course called "The Complete JavaScript Course 2022: From Zero to Expert!" by Jonas Schmedtmann<br><br>
 
 <img src="screenshots/index-page.png" width="900">
